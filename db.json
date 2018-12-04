@@ -1,0 +1,220 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "t-shirt",
+      "price": "42.99",
+      "size": "xxs",
+      "gender": "male",
+      "category": "T-Shirts",
+      "brand": "mango people",
+      "designer": "MaxPower",
+      "srcImg": "img/prod_1.png"
+    },
+    {
+      "id": 2,
+      "name": "t-shirt",
+      "price": "52.99",
+      "size": "xs",
+      "gender": "female",
+      "category": "T-Shirts",
+      "brand": "mango people",
+      "designer": "",
+      "srcImg": "img/prod_2.png"
+    },
+    {
+      "id": 3,
+      "name": "jackets",
+      "price": "37.99",
+      "size": "s",
+      "gender": "male",
+      "category": "Jackets & Coats",
+      "brand": "mango people",
+      "designer": "",
+      "srcImg": "img/prod_3.png"
+    },
+    {
+      "id": 4,
+      "name": "t-shirt",
+      "price": "39.99",
+      "size": "m",
+      "gender": "female",
+      "category": "T-Shirts",
+      "brand": "kiwi",
+      "designer": "",
+      "srcImg": "img/prod_4.png"
+    },
+    {
+      "id": 6,
+      "name": "shirt",
+      "price": "99.99",
+      "size": "m",
+      "gender": "female",
+      "category": "Shirts",
+      "brand": "kiwi",
+      "designer": "",
+      "srcImg": "img/prod_5.png"
+    },
+    {
+      "id": 6,
+      "name": "coat",
+      "price": "79.99",
+      "size": "l",
+      "gender": "male",
+      "category": "Jackets & Coats",
+      "brand": "H&M",
+      "designer": "",
+      "srcImg": "img/prod_6.png"
+    },
+    {
+      "id": 7,
+      "name": "pant",
+      "price": "74.99",
+      "size": "xl",
+      "gender": "male",
+      "category": "Pants",
+      "brand": "H&M",
+      "designer": "",
+      "srcImg": "img/prod_7.png"
+    },
+    {
+      "id": 8,
+      "name": "hoody",
+      "price": "24.99",
+      "size": "xxl",
+      "gender": "male",
+      "category": "Hoodies & Sweatshirts",
+      "brand": "H&M",
+      "designer": "",
+      "srcImg": "img/prod_8.png"
+    },
+    {
+      "id": 9,
+      "name": "short",
+      "price": "36.99",
+      "size": "l",
+      "gender": "male",
+      "category": "Shorts",
+      "brand": "H&M",
+      "designer": "",
+      "srcImg": "img/prod_8.png"
+    },
+    {
+      "id": 10,
+      "name": "t-shirt",
+      "price": "42.99",
+      "size": "xxs",
+      "gender": "male",
+      "category": "T-Shirts",
+      "brand": "mango people",
+      "designer": "",
+      "srcImg": "img/prod_1.png"
+    },
+    {
+      "id": 11,
+      "name": "t-shirt",
+      "price": "52.99",
+      "size": "xs",
+      "gender": "female",
+      "category": "T-Shirts",
+      "brand": "mango people",
+      "designer": "",
+      "srcImg": "img/prod_2.png"
+    },
+    {
+      "id": 12,
+      "name": "jackets",
+      "price": "37.99",
+      "size": "s",
+      "gender": "male",
+      "category": "Jackets & Coats",
+      "brand": "mango people",
+      "designer": "",
+      "srcImg": "img/prod_3.png"
+    },
+    {
+      "id": 13,
+      "name": "t-shirt",
+      "price": "39.99",
+      "size": "m",
+      "gender": "female",
+      "category": "T-Shirts",
+      "brand": "kiwi",
+      "designer": "",
+      "srcImg": "img/prod_4.png"
+    },
+    {
+      "id": 14,
+      "name": "shirt",
+      "price": "99.99",
+      "size": "m",
+      "gender": "female",
+      "category": "Shirts",
+      "brand": "kiwi",
+      "designer": "",
+      "srcImg": "img/prod_5.png"
+    },
+    {
+      "id": 15,
+      "name": "coat",
+      "price": "79.99",
+      "size": "l",
+      "gender": "male",
+      "category": "Jackets & Coats",
+      "brand": "H&M",
+      "designer": "",
+      "srcImg": "img/prod_6.png"
+    },
+    {
+      "id": 16,
+      "name": "pant",
+      "price": "74.99",
+      "size": "xl",
+      "gender": "male",
+      "category": "Pants",
+      "brand": "H&M",
+      "designer": "",
+      "srcImg": "img/prod_7.png"
+    },
+    {
+      "id": 17,
+      "name": "hoody",
+      "price": "24.99",
+      "size": "xxl",
+      "gender": "male",
+      "category": "Hoodies & Sweatshirts",
+      "brand": "H&M",
+      "designer": "",
+      "srcImg": "img/prod_8.png"
+    },
+    {
+      "id": 18,
+      "name": "short",
+      "price": "36.99",
+      "size": "l",
+      "gender": "male",
+      "category": "Shorts",
+      "brand": "H&M",
+      "designer": "",
+      "srcImg": "img/prod_8.png"
+    }
+  ],
+  "cart": [],
+  "users": [
+    {
+      "id": 0,
+      "username": "admin",
+      "password": "admin",
+      "access": "admin"
+    },
+    {
+      "access": "user",
+      "name": "Max",
+      "surname": "Savos",
+      "username": "maxsav",
+      "email": "max@mail.com",
+      "password": "maxmaxmax",
+      "id": 1
+    }
+  ]
+}
